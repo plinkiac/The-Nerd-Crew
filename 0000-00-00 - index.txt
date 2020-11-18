@@ -1,16 +1,16 @@
-mm/dd/yyyy | hh:mm:ss | YouTube url | episode title
+mm/dd/yyyy | hh:mm:ss | x - transcript |  title
 
-01/05/2017 | 00:15:11 | sExTt4j69zI | A Pop Culture Podcast with Red Letter Media
-01/05/2017 | 00:07:15 | JyDSqWyEMWw | Outtakes
-01/26/2017 | 00:19:35 | Bl5UH6EZXIM | Episode 2
-03/30/2017 | 00:17:08 | wJD5oAruU_Q | Episode 3: Justice League and Star Wars News!
-04/17/2017 | 00:11:35 | sTqSkEbY_N8 | Episode 4: The Last Jedi Trailer Breakdown and Analysis!
-08/31/2017 | 00:23:57 | Qv8q1ENfWBA | The Last Jedi Trailer #2 Breakdown!!!
-10/14/2017 | 00:17:37 | o3K44GQwxbA | Episode 6 - The Last Jedi Trailer 2 Reaction! And Justice League Breakdown
-12/11/2017 | 00:15:56 | 2lCW-iaOZ_M | The Last Jedi FULL REVIEW (SPOILERS!!!)
-02/01/2018 | 00:14:06 | 80T59B2RVOo | Solo: A Star Wars Story – Teaser Trailer Breakdown!!!
-02/05/2018 | 00:01:42 | d1G62KHmuXM | Han Solo Teaser – Red Letter Media OFFICIAL REACTION
-05/15/2018 | 00:15:11 | NeK889V5M88 | Solo: A Star Wars Story Premiere! Plus reactions!!!
-10/16/2018 | 00:15:55 | b5ZchzyDPJw | Franchise Movie News!!!
-09/01/2019 | 00:22:37 | qejGHLAbo_c | D23, Star Wars, D23, Disney+ and Streaming Services
-12/13/2019 | 00:31:55 | UCIYCaXNe88 | Star Wars News!!!
+01/05/2017 | 00:15:11 | bit.ly/35FZwIA | The Nerd Crew: A Pop Culture Podcast with Red Letter Media
+01/05/2017 | 00:07:15 | bit.ly/36Kba4q | Nerd Crew Outtakes
+01/26/2017 | 00:19:35 | Bl5UH6EZXIM | The Nerd Crew: Episode 2
+03/30/2017 | 00:17:08 | wJD5oAruU_Q | The Nerd Crew Episode 3: Justice League and Star Wars news!
+04/17/2017 | 00:11:35 | sTqSkEbY_N8 | Nerd Crew Episode 4: The Last Jedi Trailer Breakdown and Analysis!
+08/31/2017 | 00:23:57 | Qv8q1ENfWBA | The Nerd Crew Episode 5 - The Last Jedi Trailer #2 Breakdown!!!
+10/14/2017 | 00:17:37 | o3K44GQwxbA | The Nerd Crew: Episode 6 - The Last Jedi Trailer 2 Reaction! And Justice League Breakdown
+12/11/2017 | 00:15:56 | 2lCW-iaOZ_M | The Nerd Crew: The Last Jedi FULL REVIEW (SPOILERS!!!)
+02/01/2018 | 00:14:06 | 80T59B2RVOo | The Nerd Crew - Solo: A Star Wars Story - Teaser Trailer Breakdown!!!
+02/05/2018 | 00:01:42 | d1G62KHmuXM | Han Solo Teaser Red Letter Media OFFICIAL REACTION
+05/15/2018 | 00:15:11 | NeK889V5M88 | The Nerd Crew - Solo: A Star Wars Story Premiere! Plus reactions!!!
+10/16/2018 | 00:15:55 | b5ZchzyDPJw | The Nerd Crew: Franchise Movie News!!!
+09/01/2019 | 00:22:37 | qejGHLAbo_c | The Nerd Crew: D23, Star Wars, D23, Disney+ and Streaming Services
+12/13/2019 | 00:31:55 | UCIYCaXNe88 | Nerd Crew Live!!! Star Wars News!!!
