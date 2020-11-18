@@ -14,3 +14,5 @@ mm/dd/yyyy | hh:mm:ss | x → transcript |  title
 10/16/2018 | 00:15:55 | bit.ly/3fd9cgS | The Nerd Crew: Franchise Movie News!!!
 09/01/2019 | 00:22:37 | bit.ly/35G1ZCQ | The Nerd Crew: D23, Star Wars, D23, Disney+ and Streaming Services
 12/13/2019 | 00:31:55 | bit.ly/38Ujv8q | Nerd Crew Live!!! Star Wars News!!!
+
+https://www.redlettermedia.com/the-nerd-crew
