@@ -1,4 +1,4 @@
-mm/dd/yyyy | hh:mm:ss | x - transcript |  title
+mm/dd/yyyy | hh:mm:ss | x → transcript |  title
 
 01/05/2017 | 00:15:11 | bit.ly/35FZwIA | The Nerd Crew: A Pop Culture Podcast with Red Letter Media
 01/05/2017 | 00:07:15 | bit.ly/36Kba4q | Nerd Crew Outtakes
