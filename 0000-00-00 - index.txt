@@ -1,5 +1,6 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript |  title
 
+07/22/2015 | 00:13:15 | bit.ly/395sWlj | Nerd Talk: Sequels, Spin-Offs, and Standalones
 01/05/2017 | 00:15:11 | bit.ly/35FZwIA | The Nerd Crew: A Pop Culture Podcast with Red Letter Media
 01/05/2017 | 00:07:15 | bit.ly/36Kba4q | Nerd Crew Outtakes
 01/26/2017 | 00:19:35 | bit.ly/2IDcbmZ | The Nerd Crew: Episode 2
